@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="" />
+    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="yeah">
+      <change afterPath="$PROJECT_DIR$/moduuli01/teht.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli01/teht1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli01/tehtävä2.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2b1pXYKL6X1LFtrCVeEcRYJuciA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,9 +36,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.esimmod2.executor": "Run",
+    "Python.teht.2.executor": "Run",
+    "Python.teht1.executor": "Run",
+    "Python.tehtävä2.5.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.testi1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,11 +69,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705392480711</updated>
-      <workItem from="1705392483777" duration="11000" />
+      <workItem from="1705392483777" duration="4434000" />
+      <workItem from="1705500693983" duration="4083000" />
     </task>
+    <task id="LOCAL-00001" summary="moiu">
+      <option name="closed" value="true" />
+      <created>1705392885976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705392885976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="moiu">
+      <option name="closed" value="true" />
+      <created>1705393313310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705393313310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="yeah">
+      <option name="closed" value="true" />
+      <created>1705398283992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705398283992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kikkailut" />
+    <MESSAGE value="moiu" />
+    <MESSAGE value="yeah" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeah" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kikkailua$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1705500867976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht_2.coverage" NAME="teht.2 Coverage Results" MODIFIED="1705507204286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$testi1.coverage" NAME="testi1 Coverage Results" MODIFIED="1705392533701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1705393286314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$tehtävä2_5.coverage" NAME="tehtävä2.5 Coverage Results" MODIFIED="1705507553494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$esimmod2.coverage" NAME="esimmod2 Coverage Results" MODIFIED="1705398221695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
   </component>
 </project>
