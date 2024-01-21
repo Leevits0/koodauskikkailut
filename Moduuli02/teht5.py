@@ -19,4 +19,4 @@ massa = luotigramma + naulagramma + leiviskätgramma
 kilogrammoina = math.floor (massa/1000)
 grammoina = math.floor (massa - kilogrammoina * 1000)
 
-print(f"Massa nykymittojen mukaan = " + str(kilogrammoina) + (" kilogrammaa ja ") + str(grammoina) + " grammaa.")
+print("Massa nykymittojen mukaan = " + str(kilogrammoina) + (" kilogrammaa ja ") + str(grammoina) + " grammaa.")
