@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="yeah">
-      <change afterPath="$PROJECT_DIR$/moduuli01/teht.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduuli01/teht1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduuli01/tehtävä2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli02/teht1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli02/teht2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli02/teht3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli02/teht4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli02/teht5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli02/teht6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduuli01/teht.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduuli01/teht1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli01/teht1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduuli01/tehtävä2.5.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +45,10 @@
     "Python.esimmod2.executor": "Run",
     "Python.teht.2.executor": "Run",
     "Python.teht1.executor": "Run",
+    "Python.teht3.executor": "Run",
+    "Python.teht4.executor": "Run",
+    "Python.teht5.executor": "Run",
+    "Python.teht6.executor": "Run",
     "Python.tehtävä2.5.executor": "Run",
     "Python.test2.executor": "Run",
     "Python.testi1.executor": "Run",
@@ -54,6 +64,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Moduuli02" />
+      <recent name="$PROJECT_DIR$/'" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +86,9 @@
       <option name="presentableId" value="Default" />
       <updated>1705392480711</updated>
       <workItem from="1705392483777" duration="4434000" />
-      <workItem from="1705500693983" duration="4083000" />
+      <workItem from="1705500693983" duration="4149000" />
+      <workItem from="1705608933670" duration="812000" />
+      <workItem from="1705856301903" duration="7054000" />
     </task>
     <task id="LOCAL-00001" summary="moiu">
       <option name="closed" value="true" />
@@ -96,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705398283992</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="yeah">
+      <option name="closed" value="true" />
+      <created>1705507669149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705507669149</updated>
+    </task>
+    <task id="LOCAL-00005" summary="yeah">
+      <option name="closed" value="true" />
+      <created>1705856311509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705856311509</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,11 +143,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="yeah" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Kikkailua$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1705500867976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht_2.coverage" NAME="teht.2 Coverage Results" MODIFIED="1705507204286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1705862461109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht4.coverage" NAME="teht4 Coverage Results" MODIFIED="1705862425477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht_2.coverage" NAME="teht.2 Coverage Results" MODIFIED="1705857769839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht6.coverage" NAME="teht6 Coverage Results" MODIFIED="1705865775029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
     <SUITE FILE_PATH="coverage/Kikkailua$testi1.coverage" NAME="testi1 Coverage Results" MODIFIED="1705392533701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
     <SUITE FILE_PATH="coverage/Kikkailua$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1705393286314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
-    <SUITE FILE_PATH="coverage/Kikkailua$tehtävä2_5.coverage" NAME="tehtävä2.5 Coverage Results" MODIFIED="1705507553494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht5.coverage" NAME="teht5 Coverage Results" MODIFIED="1705863366710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
+    <SUITE FILE_PATH="coverage/Kikkailua$tehtävä2_5.coverage" NAME="tehtävä2.5 Coverage Results" MODIFIED="1705859585408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht3.coverage" NAME="teht3 Coverage Results" MODIFIED="1705862863273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
     <SUITE FILE_PATH="coverage/Kikkailua$esimmod2.coverage" NAME="esimmod2 Coverage Results" MODIFIED="1705398221695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
   </component>
 </project>
