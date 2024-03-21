@@ -1,1 +1,1 @@
-print("testing.....\n\t testing....")
+print("testing..\t...\ntesting.\t...")
