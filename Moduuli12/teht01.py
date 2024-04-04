@@ -1,7 +1,14 @@
 import requests
 
-url = "https://api.chucknorris.io/"
-response = requests.get(url)
-vitsit = response
-for vitsi in vitsit():
-    print(f"{vitsi['value']}")
+
+
+def chuck_norris_vitsi():
+    url = "https://api.chucknorris.io/jokes/random"
+    response = requests.get(url)
+    vitsi = response.json()
+    if 'value' in vitsi:
+        print(vitsi['value'])
+
+
+chuck_norris_vitsi()
+
