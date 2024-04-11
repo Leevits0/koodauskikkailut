@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Moduuli12/teht02.py" afterDir="false" />
+    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="mod">
+      <change afterPath="$PROJECT_DIR$/Moduuli13/teht01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Kikkailua.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kikkailua.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli12/teht01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli12/teht01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +164,10 @@
       <workItem from="1710938908095" duration="2435000" />
       <workItem from="1711050235113" duration="2844000" />
       <workItem from="1712038013200" duration="6439000" />
+      <workItem from="1712298326881" duration="81000" />
+      <workItem from="1712557614833" duration="453000" />
+      <workItem from="1712813536378" duration="247000" />
+      <workItem from="1712861971577" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="moiu">
       <option name="closed" value="true" />
