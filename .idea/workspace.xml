@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="mod">
-      <change afterPath="$PROJECT_DIR$/Moduuli13/teht01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht06.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Kikkailua.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kikkailua.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_4_2024__09_21__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_4_2024__09_21__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_2_2024__09_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_2_2024__09_31__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli01JS/Moduuli01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli01JS/Moduuli01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli13/teht01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli13/teht01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +24,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -45,56 +51,58 @@
 }</component>
   <component name="ProjectId" id="2b1pXYKL6X1LFtrCVeEcRYJuciA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.adsads.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cargameexample.executor&quot;: &quot;Run&quot;,
-    &quot;Python.esimmod2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for loooopit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod08esim..executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod13esim.executor&quot;: &quot;Run&quot;,
-    &quot;Python.optunti.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teh01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teht6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tehtävä2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testaustaop2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testi1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ti23.01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.adsads.executor": "Run",
+    "Python.cargameexample.executor": "Run",
+    "Python.esimmod2.executor": "Run",
+    "Python.for loooopit.executor": "Run",
+    "Python.mod08esim..executor": "Run",
+    "Python.mod13esim.executor": "Run",
+    "Python.optunti.executor": "Run",
+    "Python.teh01.executor": "Run",
+    "Python.teht.2.executor": "Run",
+    "Python.teht01.executor": "Run",
+    "Python.teht02.executor": "Run",
+    "Python.teht03.executor": "Run",
+    "Python.teht04.executor": "Run",
+    "Python.teht05.executor": "Run",
+    "Python.teht06.executor": "Run",
+    "Python.teht1.executor": "Run",
+    "Python.teht2.executor": "Run",
+    "Python.teht3.executor": "Run",
+    "Python.teht4.executor": "Run",
+    "Python.teht5.executor": "Run",
+    "Python.teht6.executor": "Run",
+    "Python.tehtävä2.5.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test01.executor": "Run",
+    "Python.test1.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.testaustaop2.executor": "Run",
+    "Python.testi1.executor": "Run",
+    "Python.ti23.01.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Moduuli04" />

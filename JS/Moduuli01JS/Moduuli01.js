@@ -65,16 +65,6 @@ const karkausvuosi = document.querySelectorAll("p");
 karkausvuosi[5].textContent = "Vuosi: " + year + vuosiluku;
 
 
-// 0 + 2 + 4 + 6 + 8 + 10 + 12 + 14
-
-//for (let i = 10;  i <= 1; --i){
- // console.log(i);
-//}
-
-
-
-
-
 
 
 
