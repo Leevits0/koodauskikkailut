@@ -4,40 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="Mod13 teht01">
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht01/teht01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht02/teht02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht02/tehtava02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht03/teht03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht03/tehtava03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht04/teht04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht04/tehtava04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht05/teht05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht05/tehtava05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht07/teht07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht07/tehtava07.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht08/teht08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht08/tehtava08.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht01/teht01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht01/tehtava01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht02/teht02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht02/tehtava02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht03/teht03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht03/tehtava03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/teht04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/tehtava05.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_4_2024,_09_21_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_4_2024__09_21__Changes_.xml" beforeDir="false" />
+    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="JavaScript kikkailut mod1 ja 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli01JS/Moduuli01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli01JS/Moduuli01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht01/tehtava01.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli01JS/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli01JS/esimerkit/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli01JS/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli01JS/esimerkit/example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli01JS/teht06.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht06/teht06.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli01JS/teht06.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli01JS/teht06/teht06.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli02JS/example-mod02.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli02JS/esimerkit/example-mod02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli02JS/example2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli02JS/esimerkit/example-taulukot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli02JS/funktiot.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli02JS/esimerkit/funktiot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/teht04.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/teht04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/tehtava05.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/tehtava04.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,11 +99,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Leevi\PycharmProjects\pythonkokeilu\JS\Moduuli01JS\teht09" />
       <recent name="C:\Users\Leevi\PycharmProjects\pythonkokeilu\JS\Moduuli01JS\teht06" />
       <recent name="C:\Users\Leevi\PycharmProjects\pythonkokeilu\JS\Moduuli01JS\teht01" />
       <recent name="C:\Users\Leevi\PycharmProjects\pythonkokeilu\JS\Moduuli01JS\esimerkit" />
       <recent name="C:\Users\Leevi\PycharmProjects\pythonkokeilu\JS\Moduuli02JS\esimerkit" />
-      <recent name="$PROJECT_DIR$/Moduuli04" />
     </key>
   </component>
   <component name="RunManager">
@@ -202,7 +172,7 @@
       <workItem from="1712557614833" duration="453000" />
       <workItem from="1712813536378" duration="247000" />
       <workItem from="1712861971577" duration="25000" />
-      <workItem from="1713183923248" duration="13035000" />
+      <workItem from="1713183923248" duration="14326000" />
     </task>
     <task id="LOCAL-00001" summary="moiu">
       <option name="closed" value="true" />
@@ -317,7 +287,14 @@
       <option name="presentableId" value="LOCAL−00015" />
       <updated>1713185901986</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL−00016" summary="JavaScript kikkailut mod1 ja 2">
+      <option name="closed" value="true" />
+      <created>1713214338700</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1713214338700</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +310,8 @@
     <MESSAGE value="kikkailut" />
     <MESSAGE value="js" />
     <MESSAGE value="Mod13 teht01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mod13 teht01" />
+    <MESSAGE value="JavaScript kikkailut mod1 ja 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript kikkailut mod1 ja 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Kikkailua$teht02.coverage" NAME="teht02 Coverage Results" MODIFIED="1706520695852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
