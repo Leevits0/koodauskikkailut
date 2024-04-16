@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>example-mod 04 api</title>
+</head>
+<body>
+<figure>
+    <img>
+    <figcaption></figcaption>
+</figure>
+<script>
+        // simplified example without error handling
+        async function showPics() {
+            const response = await fetch('picts.json');
+            console.log(response)// starts the download.
+            const images = await response.json();      // convert the loaded text JSON into a JavaScript object / array
+            console.log(images)
+            const name = images[1].name;     // the 'name' property of the second object in the 'images' array
+            const description = images[1].description; // 'description' property of the second object object in the 'images' array
+            const address = images[1].address; // 'address' property of the second object object in the 'images' array
+
+            document.querySelector('img').src = address;
+            document.querySelector('img').alt = name;
+            document.querySelector('figcaption').innerText = description;
+
+        }
+        showPics(); // call function to start download
+</script>
+</body>
+</html>
