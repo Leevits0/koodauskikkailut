@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="JavaScript kikkailut mod1 ja 2">
+    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="moduuli04 js">
+      <change afterPath="$PROJECT_DIR$/Esimerkit/pythonkoe2kertaus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli04/esim/angry-black-cat-meme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/esim/esim01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/esim/esim01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kikkailua.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kikkailua.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_4_2024_22_10_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_4_2024_22_10__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/teht04.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/teht04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/tehtava05.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli02JS/teht04/tehtava04.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +38,12 @@
     &quot;assignee&quot;: &quot;Leevits0&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="d9934757-340a-4811-87c6-2507de237b42" />
-        <option name="url" value="https://github.com/Leevits0/pythonkokeilu" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leevits0/pythonkokeilu.git&quot;,
+    &quot;accountId&quot;: &quot;94a7e86f-04f0-40d1-afd4-96e992d98e1d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -62,6 +66,7 @@
     &quot;Python.mod08esim..executor&quot;: &quot;Run&quot;,
     &quot;Python.mod13esim.executor&quot;: &quot;Run&quot;,
     &quot;Python.optunti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonkoe2kertaus.executor&quot;: &quot;Run&quot;,
     &quot;Python.teh01.executor&quot;: &quot;Run&quot;,
     &quot;Python.teht.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.teht01.executor&quot;: &quot;Run&quot;,
@@ -134,7 +139,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -173,6 +179,7 @@
       <workItem from="1712813536378" duration="247000" />
       <workItem from="1712861971577" duration="25000" />
       <workItem from="1713183923248" duration="14326000" />
+      <workItem from="1713512398749" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="moiu">
       <option name="closed" value="true" />
@@ -314,43 +321,44 @@
     <option name="LAST_COMMIT_MESSAGE" value="JavaScript kikkailut mod1 ja 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Kikkailua$teht02.coverage" NAME="teht02 Coverage Results" MODIFIED="1706520695852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht06.coverage" NAME="teht06 Coverage Results" MODIFIED="1706968806823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli06" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht03.coverage" NAME="teht03 Coverage Results" MODIFIED="1711052607526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli09" />
+    <SUITE FILE_PATH="coverage/Kikkailua$tehtävä2_5.coverage" NAME="tehtävä2.5 Coverage Results" MODIFIED="1705859585408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$pythonkoe2kertaus.coverage" NAME="pythonkoe2kertaus Coverage Results" MODIFIED="1713252342148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1708039166477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teh01.coverage" NAME="teh01 Coverage Results" MODIFIED="1706883178894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli05" />
+    <SUITE FILE_PATH="coverage/Kikkailua$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1706181184431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
+    <SUITE FILE_PATH="coverage/Kikkailua$testi1.coverage" NAME="testi1 Coverage Results" MODIFIED="1705392533701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$esimmod2.coverage" NAME="esimmod2 Coverage Results" MODIFIED="1705398221695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
+    <SUITE FILE_PATH="coverage/Kikkailua$mod13esim.coverage" NAME="mod13esim Coverage Results" MODIFIED="1712046192895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli13" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$mod08esim_.coverage" NAME="mod08esim. Coverage Results" MODIFIED="1707671748229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli08" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$test.coverage" NAME="test Coverage Results" MODIFIED="1711051657846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht03.coverage" NAME="teht03 Coverage Results" MODIFIED="1706521823463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht3.coverage" NAME="teht3 Coverage Results" MODIFIED="1706184920123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1707670336462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli07" />
+    <SUITE FILE_PATH="coverage/Kikkailua$testaustaop2.coverage" NAME="testaustaop2 Coverage Results" MODIFIED="1705930101464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht04.coverage" NAME="teht04 Coverage Results" MODIFIED="1706444489349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht01.coverage" NAME="teht01 Coverage Results" MODIFIED="1712919229810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli05" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht01.coverage" NAME="teht01 Coverage Results" MODIFIED="1712257855951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli12" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1708038997768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$ti23_01.coverage" NAME="ti23.01 Coverage Results" MODIFIED="1706002302201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1708039199605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht04.coverage" NAME="teht04 Coverage Results" MODIFIED="1711052885866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli09" />
+    <SUITE FILE_PATH="coverage/Kikkailua$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1705393286314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht5.coverage" NAME="teht5 Coverage Results" MODIFIED="1705866291091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$mod13esim.coverage" NAME="mod13esim Coverage Results" MODIFIED="1713184971695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli13" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1706520582815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht_2.coverage" NAME="teht.2 Coverage Results" MODIFIED="1705857769839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$for_loooopit.coverage" NAME="for loooopit Coverage Results" MODIFIED="1708966590381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht02.coverage" NAME="teht02 Coverage Results" MODIFIED="1712259681669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli12" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$adsads.coverage" NAME="adsads Coverage Results" MODIFIED="1708039878455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli08" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$cargameexample.coverage" NAME="cargameexample Coverage Results" MODIFIED="1708966266034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht6.coverage" NAME="teht6 Coverage Results" MODIFIED="1706521135307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
+    <SUITE FILE_PATH="coverage/pythonkokeilu$teht05.coverage" NAME="teht05 Coverage Results" MODIFIED="1706968465218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli06" />
     <SUITE FILE_PATH="coverage/Kikkailua$teht05.coverage" NAME="teht05 Coverage Results" MODIFIED="1706444141855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
     <SUITE FILE_PATH="coverage/Kikkailua$teht4.coverage" NAME="teht4 Coverage Results" MODIFIED="1706186331704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
-    <SUITE FILE_PATH="coverage/Kikkailua$ti23_01.coverage" NAME="ti23.01 Coverage Results" MODIFIED="1706002302201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$cargameexample.coverage" NAME="cargameexample Coverage Results" MODIFIED="1708966266034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$for_loooopit.coverage" NAME="for loooopit Coverage Results" MODIFIED="1708966590381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht03.coverage" NAME="teht03 Coverage Results" MODIFIED="1711052607526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli09" />
-    <SUITE FILE_PATH="coverage/Kikkailua$esimmod2.coverage" NAME="esimmod2 Coverage Results" MODIFIED="1705398221695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht06.coverage" NAME="teht06 Coverage Results" MODIFIED="1706968806823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli06" />
-    <SUITE FILE_PATH="coverage/Kikkailua$mod13esim.coverage" NAME="mod13esim Coverage Results" MODIFIED="1712046192895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli13" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1706520582815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht03.coverage" NAME="teht03 Coverage Results" MODIFIED="1706521823463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
-    <SUITE FILE_PATH="coverage/Kikkailua$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1705393286314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht_2.coverage" NAME="teht.2 Coverage Results" MODIFIED="1705857769839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht5.coverage" NAME="teht5 Coverage Results" MODIFIED="1705866291091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht01.coverage" NAME="teht01 Coverage Results" MODIFIED="1713185806165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli13" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1708039166477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$mod08esim_.coverage" NAME="mod08esim. Coverage Results" MODIFIED="1707671748229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli08" />
-    <SUITE FILE_PATH="coverage/Kikkailua$testaustaop2.coverage" NAME="testaustaop2 Coverage Results" MODIFIED="1705930101464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$mod13esim.coverage" NAME="mod13esim Coverage Results" MODIFIED="1713184971695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli13" />
-    <SUITE FILE_PATH="coverage/Kikkailua$testi1.coverage" NAME="testi1 Coverage Results" MODIFIED="1705392533701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht04.coverage" NAME="teht04 Coverage Results" MODIFIED="1711052885866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli09" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1708038997768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teh01.coverage" NAME="teh01 Coverage Results" MODIFIED="1706883178894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli05" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht3.coverage" NAME="teht3 Coverage Results" MODIFIED="1706184920123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
+    <SUITE FILE_PATH="coverage/Kikkailua$teht02.coverage" NAME="teht02 Coverage Results" MODIFIED="1706520695852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
     <SUITE FILE_PATH="coverage/Kikkailua$optunti.coverage" NAME="optunti Coverage Results" MODIFIED="1705927463585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli02" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$adsads.coverage" NAME="adsads Coverage Results" MODIFIED="1708039878455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli08" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1707670336462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli07" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht01.coverage" NAME="teht01 Coverage Results" MODIFIED="1706520618971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
-    <SUITE FILE_PATH="coverage/Kikkailua$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1706181184431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht6.coverage" NAME="teht6 Coverage Results" MODIFIED="1706521135307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht02.coverage" NAME="teht02 Coverage Results" MODIFIED="1712259681669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli12" />
-    <SUITE FILE_PATH="coverage/Kikkailua$teht04.coverage" NAME="teht04 Coverage Results" MODIFIED="1706444489349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli04" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$test.coverage" NAME="test Coverage Results" MODIFIED="1711051657846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esimerkit" />
     <SUITE FILE_PATH="coverage/Kikkailua$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1706520564168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1708039199605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli03" />
-    <SUITE FILE_PATH="coverage/Kikkailua$tehtävä2_5.coverage" NAME="tehtävä2.5 Coverage Results" MODIFIED="1705859585408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli01" />
-    <SUITE FILE_PATH="coverage/pythonkokeilu$teht05.coverage" NAME="teht05 Coverage Results" MODIFIED="1706968465218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli06" />
   </component>
 </project>
