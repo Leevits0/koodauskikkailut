@@ -4,16 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="moduuli04 js">
-      <change afterPath="$PROJECT_DIR$/Esimerkit/pythonkoe2kertaus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Moduuli04/esim/angry-black-cat-meme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/esim/esim01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/esim/esim01.js" afterDir="false" />
+    <list default="true" id="9974bfb6-64e3-4c3f-a56d-370782ba8a58" name="Changes" comment="JavaScript kikkailut mod2">
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t1/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t2/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t3/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t4/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t6/6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t7/7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli04/teht05/teht05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Moduuli04/teht06/teht06.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Kikkailua.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kikkailua.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_4_2024_22_10_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_4_2024_22_10__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_4_2024,_09_21_[Changes]/angry-black-cat-meme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_4_2024,_09_21_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_4_2024__09_21__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/esimerkit/esim.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/esimerkit/esim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/esimerkit/esimgeo.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/esimerkit/esimgeo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/esimerkit/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli04/teht05/teht05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/esimerkit/styleesim.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli04/teht06/teht06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t1/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t1/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t1/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t1/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t1/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t10/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t10/10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t11/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t2/2.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t2/2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t2/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t2/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t2/2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t3/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t3/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t3/3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t4/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t4/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t4/4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/img/pic9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t5/thumbnails/pic9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t6/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t6/6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t6/6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t7/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t7/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t7/7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t7/img/picA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t7/img/picA.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t7/img/picB.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli03JS/module3-starters-main/t7/img/picB.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t8/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t8/8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t9/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli03/module3-starters-main/t9/9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli04/teht01/teht01.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli04/teht01/teht01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli04/teht01/teht01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli04/teht01/teht01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli04/teht02/teht02.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli04/teht02/teht02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Moduuli04/teht02/teht02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Moduuli04/teht02/teht02.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +83,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="JavaScript File" />
+        <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,6 +104,9 @@
     &quot;accountId&quot;: &quot;94a7e86f-04f0-40d1-afd4-96e992d98e1d&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -93,6 +156,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Leevi/Desktop/server.project/Demopeli-main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -139,8 +203,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -180,6 +243,11 @@
       <workItem from="1712861971577" duration="25000" />
       <workItem from="1713183923248" duration="14326000" />
       <workItem from="1713512398749" duration="1834000" />
+      <workItem from="1713961786209" duration="57000" />
+      <workItem from="1713970972951" duration="24000" />
+      <workItem from="1713976209278" duration="38000" />
+      <workItem from="1713976990389" duration="2739000" />
+      <workItem from="1714070412686" duration="5186000" />
     </task>
     <task id="LOCAL-00001" summary="moiu">
       <option name="closed" value="true" />
