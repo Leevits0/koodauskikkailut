@@ -1,7 +1,7 @@
 import numpy as np
 import random
 
-
+# 1.
 random_array = np.random.randint(1,100, size=20)
 sorted_array = np.sort(random_array)
 twoD_array = random_array.reshape(4,5)
@@ -11,6 +11,8 @@ print(f"\n Original array: {random_array}")
 print(f" Sorted array in ascending order: {sorted_array}")
 
 print(f"\n Two dimensional array: \n {twoD_array}")
+
+# 2. ja 3.
 
 # a) u = 2i + 3j, v =4i - 7j
 u = [2,3]
