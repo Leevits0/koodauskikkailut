@@ -34,4 +34,4 @@ print(f"Vektorin uu normi = {uu_norm} \n")
 vv = [3,-3,2]
 print("- Vektori vv", vv)
 vv_norm = np.linalg.norm(vv)
-print(f"Vektorin u normi = {vv_norm}")
+print(f"Vektorin u normi = {vv_norm} ")
