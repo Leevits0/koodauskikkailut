@@ -1,7 +1,6 @@
 #teht 4
 # tehtävän pallon lentorataa kuvaava paraabeli:
 
-#teht 3: 1b)
 
 
 import numpy as np
